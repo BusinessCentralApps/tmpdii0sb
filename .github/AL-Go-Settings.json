@@ -4,5 +4,6 @@
   "useProjectDependencies": true,
   "shell": "pwsh",
   "runs-on": "ubuntu-latest",
-  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-PTE@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-PTE@main",
+  "templateSha": "131b35890bda9b8006555e06521e75bd2ff31644"
 }
